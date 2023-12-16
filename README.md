@@ -23,3 +23,5 @@ Get-Service QEMU-GA
 winget install -e --id cURL.cURL
 
 
+https://www.spice-space.org/download.html  
+
