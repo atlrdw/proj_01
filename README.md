@@ -22,6 +22,8 @@ Get-Service QEMU-GA
 
 winget install -e --id cURL.cURL
 
+winget install "FFmpeg (Shared)"
+
 
 https://www.spice-space.org/download.html  
 
