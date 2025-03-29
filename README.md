@@ -15,6 +15,7 @@ winget install -e --id SoftwareFreedomConservancy.QEMUGuestAgent
 
 
 winget install -e --id SoftwareFreedomConservancy.QEMU
+
 winget install -e --id SoftwareFreedomConservancy.QEMUGuestAgent
 
 Get-Service QEMU-GA
@@ -25,16 +26,17 @@ winget install -e --id cURL.cURL
 winget install "FFmpeg (Shared)"
 
 winget install -e --id VideoLAN.VLC
+
 winget install -e --id angryziber.AngryIPScanner
 
 winget install -e --id SomePythonThings.WingetUIStore
 
-winget install -e --id PuTTY.PuTTY
+winget install -e --id PuTTY.PuTTY 
 winget install -e --id WiresharkFoundation.Wireshark
 
-winget install -e --id qBittorrent.qBittorrent
-winget install -e --id Notepad++.Notepad++
-winget install -e --id Microsoft.Teams
+winget install -e --id qBittorrent.qBittorrent 
+winget install -e --id Notepad++.Notepad++ 
+winget install -e --id Microsoft.Teams 
 
 winget install -e --id 7zip.7zip
 
